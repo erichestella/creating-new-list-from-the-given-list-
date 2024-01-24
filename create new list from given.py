@@ -1,5 +1,5 @@
 #add title
-print('\nCREATE NEW LIST FROM THE GIVEN TWO LIST.\n')
+print('\nCREATING NEW LIST USING THE GIVEN TWO LISTS.\n')
 
 #given list
 integer_list1 = [10, 65, 25, 33, 93]
@@ -18,6 +18,7 @@ for i in integer_list2:
     if (i % 2 == 0):
         total_list.append(i) 
 
+#displaying the new list
 print(' New List :', total_list)
 
 

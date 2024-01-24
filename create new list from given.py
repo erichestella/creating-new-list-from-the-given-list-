@@ -18,6 +18,6 @@ for i in integer_list2:
     if (i % 2 == 0):
         total_list.append(i) 
 
-print('New List:', total_list)
+print(' New List :', total_list)
 
 
